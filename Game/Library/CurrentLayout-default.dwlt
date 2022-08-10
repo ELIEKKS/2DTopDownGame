@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: Game
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -122,7 +122,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 1952
+  controlID: 27
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 1926
+  controlID: 28
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 1927
+  controlID: 29
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -401,7 +401,7 @@ MonoBehaviour:
       width: 2076.636
       height: 1080
     m_MinimalGUI: 1
-  m_defaultScale: 0.8037037
+  m_defaultScale: 0.82314813
   m_LastWindowPixelSize: {x: 1669, y: 889}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
@@ -436,9 +436,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 424d0000
-      m_LastClickedID: 0
-      m_ExpandedIDs: d612feffb842feff886dfeff786efeff26f8ffff36f8ffff40fbffffc2670000366800004e68000084680000b0680000ea680000f468000066690000669b0000
+      m_SelectedIDs: 364d0000
+      m_LastClickedID: 19766
+      m_ExpandedIDs: 02b0ffff08b3ffff14b3ffff40fbffffba4c00004e4d0000b04d0000f44d00006c4e0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -498,9 +498,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 814.9045, y: 319.28876, z: -156.13814}
+    m_Target: {x: 841.53644, y: 488.18515, z: -454.3125}
     speed: 2
-    m_Value: {x: 814.9045, y: 319.28876, z: -156.13814}
+    m_Value: {x: 801.43335, y: 508.12592, z: -451.1146}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -551,9 +551,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 716.0442
+    m_Target: 742.6249
     speed: 2
-    m_Value: 716.0442
+    m_Value: 710.6458
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -719,23 +719,23 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Prefabs
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Prefabs
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\elias_itqx8kg\OneDrive\Desktop\UnityGames\Top Down
     Game Simple 2D
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 140}
-    m_SelectedIDs: 2c4d0000
-    m_LastClickedID: 19756
-    m_ExpandedIDs: 00000000e04c0000e24c0000e44c0000e64c0000e84c0000ea4c0000ec4c0000ee4c0000f04c0000f24c0000f44c0000f64c0000244d00002a4d00002c4d000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 56530000
+    m_LastClickedID: 21334
+    m_ExpandedIDs: 0000000030530000325300003453000036530000385300003a5300003c5300003e5300004053000042530000445300004653000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -763,7 +763,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e04c0000e24c0000e44c0000e64c0000e84c0000ea4c0000ec4c0000ee4c0000f04c0000f24c0000f44c0000f64c000000ca9a3b
+    m_ExpandedIDs: 0000000030530000325300003453000036530000385300003a5300003c5300003e53000040530000425300004453000046530000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
